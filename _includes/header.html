@@ -31,8 +31,7 @@
                 <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
                 <div>
-                  <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
-                </div>
+                  <a href="{{ submenu-item.url | relative_url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{ submenu-item.title }}</a>                </div>
                 {% endfor %}
                 </div>
               </li>
