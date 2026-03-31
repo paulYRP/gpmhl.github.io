@@ -6,13 +6,13 @@ This repository contains the source code and content for the Genomics, Performan
 
 ## Documentation
 
-Please refer to [the documentation](https://gpmhl.github.io/documentation/) for guidance on contributing to the website, including how to add blog posts, update people pages, and preview the website before deployment.
+Please refer to [the documentation](https://paulyrp.github.io/gpmhl/documentation/) for guidance on contributing to the website, including how to add blog posts, update people pages, and preview the website before deployment.
 
-If you are working on the website structure, styling, or development features, please refer to [the developer documentation](https://gpmhl.github.io/documentation_developer/) for instructions on updating page content and styles.
+If you are working on the website structure, styling, or development features, please refer to [the developer documentation](https://paulyrp.github.io/gpmhl/documentation_developer/) for instructions on updating page content and styles.
 
 ## Blog Post Elements
 
-For examples of how to format text, images, and videos in blog posts, please refer to [this page](https://gpmhl.github.io/elements/).
+For examples of how to format text, images, and videos in blog posts, please refer to [this page](https://paulyrp.github.io/gpmhl/elements/).
 
 ## Contact
 
